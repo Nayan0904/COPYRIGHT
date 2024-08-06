@@ -4,31 +4,31 @@
   "repository": "https://github.com/tinaarobot/COPYRIGHT",
   "env": {
     "API_ID": {
-      "description": "29112026",
+      "description": "Your Telegram API ID",
       "required": true
     },
     "API_HASH": {
-      "description": "a660c8c6d50df59fe89099b341d8bf02",
+      "description": "Your Telegram API Hash",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "7216013039:AAFjVz22wDLTs18R7Y5k_bPlLJH9I4mjPj0",
+      "description": "Your Telegram Bot Token",
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "cof_protector_bot",
+      "description": "Your Bot Username",
       "required": true
     },
     "OWNER_ID": {
-      "description": "1973547213",
+      "description": "Your Telegram User ID (Owner)",
       "required": true
     },
     "LOGGER_ID": {
-      "description": "-1002226620411",
+      "description": "Your Logger Chat ID",
       "required": true
     },
     "MONGO_URL": {
-      "description": "mongodb+srv://Mrdaxx123:Mrdaxx123@cluster0.q1da65h.mongodb.net/?retryWrites=true&w=majority",
+      "description": "Your MongoDB URL",
       "required": true
     }
   },
